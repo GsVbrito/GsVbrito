@@ -1,4 +1,4 @@
-### Olá!! eu sou a GabiBrito. 👋
+### Oii!! eu sou a GabiBrito. 👋
 
 - 💻 Estudando: FRONT-END
 
