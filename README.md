@@ -4,7 +4,7 @@
 
 - 📞 Contate-me no meu email: gabriele.sia@hotmail.com
 
-- 🔗 Pronomes: ela/dela
+- 📍 Pronomes: ela/dela
 <div align="center">
   <a href="https://github.com/GsVbrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GsVbrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
