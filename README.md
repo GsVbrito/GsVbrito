@@ -1,6 +1,6 @@
 ### Oii!! eu sou a GabiBrito. 💙
 
-- 💻 Estudando: FRONT-END
+- 💻 Estudando: Python
 
 - 📞 Contate-me no meu email: gabriele.sia@hotmail.com
 
