@@ -1,6 +1,6 @@
 ### Oii!! eu sou a Gabi. 
 
-- 💻 Estudando: Python
+- 💻 Ciencia da Computação
 
 - 📞 Contate-me no meu email: gabriele.sia@hotmail.com
 
